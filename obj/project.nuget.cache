@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "IZ0Pwf5S308=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Musa\\Documents\\Software Test\\SeleniumLoginTest\\SeleniumLoginTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Musa\\.nuget\\packages\\selenium.support\\4.28.0\\selenium.support.4.28.0.nupkg.sha512",
+    "C:\\Users\\Musa\\.nuget\\packages\\selenium.webdriver\\4.28.0\\selenium.webdriver.4.28.0.nupkg.sha512",
+    "C:\\Users\\Musa\\.nuget\\packages\\selenium.webdriver.chromedriver\\132.0.6834.8300\\selenium.webdriver.chromedriver.132.0.6834.8300.nupkg.sha512"
+  ],
+  "logs": []
+}
